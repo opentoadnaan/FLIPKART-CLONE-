@@ -1,0 +1,223 @@
+:root{
+    --main-bg-color:#2874f0;
+}
+*{
+    margin: 0;padding: 0;
+}
+header{display: flex;
+   background: var(--main-bg-color);
+   width: 100vw;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    height:79PX ;
+    width: 138px;
+}
+  .image1{
+    width: 88px;
+    height: 23px;
+    padding: 0px 0px 0px 60px  ;
+}
+.image2{ width: 88px;
+    height: 23px;
+    padding: 20px;
+}
+    
+
+nav{
+    display: flex;
+    
+  
+}
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+nav ul li a:hover{ 
+    font-weight: bolder;
+}
+ul{
+    display:flex; 
+    justify-content: flex-start;
+    align-items:center;
+    width: 278px;
+}
+
+ul li{
+    list-style-type: none;
+    padding:0 20px 0px 20px;
+  
+}
+.search
+{ display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+}
+.search input{
+    width: 6vw;
+    height: 5vh;
+    border-radius: 5px;
+    padding: 0px 14vw 0px 1vw;
+}
+.button
+{    width:  5vw;
+
+    background: var(--main-bg-color);
+    border-radius: 4px;
+    margin: 25PX;
+    border-radius: 7px;
+    border:solid 2px white;
+    cursor: pointer;
+
+    padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+.IMAGE{
+    WIDTH:1495PX;
+}
+.box1 {
+    width: 1495px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+.box2{
+  display: flex;
+  justify-content:start;
+  align-items: row;
+        margin-left: 20px;
+        margin-right: 20px;
+        overflow: hidden; 
+            background: rgb(255, 255, 255);
+            border-radius: 4px;
+            width: 1497px;
+            height: 271.2px;
+          
+}
+
+.box3{
+    display: flex;
+    justify-content:start;
+    align-items: row;
+          margin-left: 20px;
+          margin-right: 20px;
+          overflow: hidden; 
+              background: rgb(255, 255, 255);
+              border-radius: 4px;
+        
+  }
+ 
+  
+
+  .box4{
+    display: flex;
+    justify-content:start;
+    align-items: row;
+          margin-left: 20px;
+          margin-right: 20px;
+          overflow: hidden; 
+              background: white;
+              border-radius: 4px;
+        
+  }
+
+  .box5{
+    display: flex;
+    justify-content:start;
+    align-items: row;
+          margin-left: 20px;
+          margin-right: 20px;
+          overflow: hidden; 
+              background: white;
+              border-radius: 4px;
+        
+  }
+   
+   .contai
+   {
+    
+    
+    margin-bottom: 20px;
+}
+   
+
+ 
+body{
+    background: rgb(221, 221, 221);
+}
+.head
+{display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 111px;
+padding-bottom: 111px;
+padding-left: 0px;
+border-left-width: 0px;
+border-left-style: solid;
+border-right-width: 0px;
+border-right-style: solid;
+}
+
+
+.cards
+{
+ margin: 0px 10px;  
+ DISPLAY: FLEX;
+FLEX-DIRECTION: COLUMN;
+}
+ .carditem{
+    display: flex;
+    justify-content: start;
+     
+ }
+
+
+ main{
+    min-height: calc(100vh - 58px - 12vh);
+    
+ }
+
+
+
+footer{
+    
+    background: var(--main-bg-color);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    color: white;
+}
+.CONTAIN
+{  text-align: center;
+    Height: 7vh;
+    width: 100vw;
+    padding-top: 0px;
+    DISPLAY: FLEX;
+    JUSTIFY-CONTENT: CENTER;
+    ALIGN-ITEMS: CENTER;
+  }
+
+.BOX6{
+    
+    color: white;
+    background-color:  #172337;
+}
+._2WErco  {
+    display: flex;
+justify-content: flex-start;
+align-items: flex-start;
+}
+.z3ht-w{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

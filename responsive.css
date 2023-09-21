@@ -1,0 +1,94 @@
+@media screen and (max-width:900PX) {
+    header {
+        flex-direction: column;
+        align-items: center;
+        WIDTH: 100%;
+    }
+    .img .image1{
+        padding: 0PX;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+    FOOTER{
+        WIDTH:100%;
+    }
+   
+
+    div.box1 {
+        width: 100vw;
+        display: flex;
+        justify-content: start;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+        margin-top: 010px;
+
+    }
+    .IMAGE{
+         MAX-WIDTH: 100%;
+    }
+
+    DIV.BOX1   {   
+        width: 100vw;
+ 
+    }
+
+    .box2 {
+        flex-direction: column;
+        align-items: flex-start;flex-direction: ROW;
+        align-items: flex-start;
+        WIDTH: 95VW;
+        overflow-x: auto;
+    }
+    .carditem {
+        width: auto;
+    }
+
+    .CARDS {
+        width: 50PX;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .CONTAIN {
+        flex-direction: column;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    ._2WErco {
+        align-items: baseline;
+        FLEX-DIRECTION: COLUMN;
+    }
+
+    ._2uz0vJ {
+        FLEX-DIRECTION: COLUMN;
+        JUSTIFY-CONTENT: START;
+    }
+
+    .search {
+        FLEX-DIRECTION: COLUMN;
+        JUSTIFY-CONTENT: CENTER;
+        align-content: center;
+    }
+
+    input.searchinput {
+        width: 50vw;
+        height: 3vh;
+        border-radius: 5px;
+        padding: 0vw 0vw 0vw 0vw;
+    }
+    DIV.IMG .IMAGE1{
+        padding: 0vw;
+    }
+    .button{
+width: 12vh;
+    }
+ 
+}
